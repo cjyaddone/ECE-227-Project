@@ -1,0 +1,227 @@
+
+====================================
+Facebook: Nodes=4039, Edges=88234
+
+--- Generating Advanced Models for 4039 nodes, 88234 edges ---
+LFR convergence failed, using BA as fallback for this iteration.
+
+--- Analysis for Facebook ---
+Average Clustering Coefficient: 0.6055
+Average Shortest Path Length: 3.6925
+
+--- Deep Analysis: Facebook ---
+Assortativity: 0.0636
+Global Density: 0.010820
+Transitivity: 0.5192
+Rich-Club Coefficient (at max degree 791): 1.0000
+
+--- Analysis for Erdos-Renyi (Random) ---
+Average Clustering Coefficient: 0.0108
+Average Shortest Path Length: 2.6078
+
+--- Deep Analysis: Erdos-Renyi (Random) ---
+Assortativity: -0.0005
+Global Density: 0.010786
+Transitivity: 0.0108
+Rich-Club Coefficient (at max degree 66): 0.0000
+
+--- Analysis for Watts-Strogatz (Small World) ---
+Average Clustering Coefficient: 0.5357
+Average Shortest Path Length: 3.0067
+
+--- Deep Analysis: Watts-Strogatz (Small World) ---
+Assortativity: 0.0007
+Global Density: 0.010401
+Transitivity: 0.5334
+Rich-Club Coefficient (at max degree 48): 0.0000
+
+--- Analysis for Barabasi-Albert (Scale-Free) ---
+Average Clustering Coefficient: 0.0370
+Average Shortest Path Length: 2.5324
+
+--- Deep Analysis: Barabasi-Albert (Scale-Free) ---
+Assortativity: -0.0114
+Global Density: 0.010347
+Transitivity: 0.0353
+Rich-Club Coefficient (at max degree 489): 1.0000
+
+--- Analysis for Stochastic Block Model (SBM) ---
+Average Clustering Coefficient: 0.3861
+Average Shortest Path Length: 2.7598
+
+--- Deep Analysis: Stochastic Block Model (SBM) ---
+Assortativity: 0.4894
+Global Density: 0.010945
+Transitivity: 0.3833
+Rich-Club Coefficient (at max degree 82): 1.0000
+
+--- Analysis for LFR Benchmark Graph ---
+Average Clustering Coefficient: 0.0363
+Average Shortest Path Length: 2.5365
+
+--- Deep Analysis: LFR Benchmark Graph ---
+Assortativity: -0.0069
+Global Density: 0.010347
+Transitivity: 0.0350
+Rich-Club Coefficient (at max degree 428): 1.0000
+
+--- Analysis for Forest Fire Model ---
+Average Clustering Coefficient: 0.5296
+Average Shortest Path Length: 7.7598
+
+--- Deep Analysis: Forest Fire Model ---
+Assortativity: 0.2332
+Global Density: 0.001686
+Transitivity: 0.2809
+Rich-Club Coefficient (at max degree 74): 1.0000
+
+====================================
+Email: Nodes=36692, Edges=183831
+
+--- Generating Advanced Models for 36692 nodes, 183831 edges ---
+Too many nodes for LFR, using BA as fallback for this iteration.
+
+--- Analysis for Email ---
+Average Clustering Coefficient: 0.4970
+Path Length (Giant Component): 4.0252
+
+--- Deep Analysis: Email ---
+Assortativity: -0.1108
+Global Density: 0.000273
+Transitivity: 0.0853
+Rich-Club Coefficient (at max degree 1366): 0.0000
+
+--- Analysis for Erdos-Renyi (Random) ---
+Average Clustering Coefficient: 0.0003
+Path Length (Giant Component): 4.8098
+
+--- Deep Analysis: Erdos-Renyi (Random) ---
+Assortativity: 0.0021
+Global Density: 0.000273
+Transitivity: 0.0003
+Rich-Club Coefficient (at max degree 25): 0.0000
+
+--- Analysis for Watts-Strogatz (Small World) ---
+Average Clustering Coefficient: 0.4896
+Average Shortest Path Length: 7.0720
+
+--- Deep Analysis: Watts-Strogatz (Small World) ---
+Assortativity: -0.0086
+Global Density: 0.000273
+Transitivity: 0.4806
+Rich-Club Coefficient (at max degree 14): 0.0000
+
+--- Analysis for Barabasi-Albert (Scale-Free) ---
+Average Clustering Coefficient: 0.0025
+Average Shortest Path Length: 4.0171
+
+--- Deep Analysis: Barabasi-Albert (Scale-Free) ---
+Assortativity: -0.0190
+Global Density: 0.000273
+Transitivity: 0.0017
+Rich-Club Coefficient (at max degree 617): 1.0000
+
+--- Analysis for Stochastic Block Model (SBM) ---
+Average Clustering Coefficient: 0.0886
+Path Length (Giant Component): 5.3263
+
+--- Deep Analysis: Stochastic Block Model (SBM) ---
+Assortativity: -0.0037
+Global Density: 0.000273
+Transitivity: 0.0866
+Rich-Club Coefficient (at max degree 22): 0.0000
+
+--- Analysis for LFR Benchmark Graph ---
+Average Clustering Coefficient: 0.0025
+Average Shortest Path Length: 4.0223
+
+--- Deep Analysis: LFR Benchmark Graph ---
+Assortativity: -0.0195
+Global Density: 0.000273
+Transitivity: 0.0017
+Rich-Club Coefficient (at max degree 697): 1.0000
+
+--- Analysis for Forest Fire Model ---
+Average Clustering Coefficient: 0.5138
+Average Shortest Path Length: 10.6157
+
+--- Deep Analysis: Forest Fire Model ---
+Assortativity: 0.2335
+Global Density: 0.000189
+Transitivity: 0.2497
+Rich-Club Coefficient (at max degree 145): 1.0000
+
+====================================
+CA-GrQc: Nodes=5242, Edges=14496
+
+--- Generating Advanced Models for 5242 nodes, 14496 edges ---
+
+--- Analysis for CA-GrQc ---
+Average Clustering Coefficient: 0.5296
+Path Length (Giant Component): 6.0494
+
+--- Deep Analysis: CA-GrQc ---
+Assortativity: 0.6592
+Global Density: 0.001055
+Transitivity: 0.6298
+Rich-Club Coefficient (at max degree 78): 1.0000
+
+--- Analysis for Erdos-Renyi (Random) ---
+Average Clustering Coefficient: 0.0009
+Path Length (Giant Component): 5.2320
+
+--- Deep Analysis: Erdos-Renyi (Random) ---
+Assortativity: -0.0015
+Global Density: 0.001044
+Transitivity: 0.0010
+Rich-Club Coefficient (at max degree 13): 0.0000
+
+--- Analysis for Watts-Strogatz (Small World) ---
+Average Clustering Coefficient: 0.3756
+Average Shortest Path Length: 11.5508
+
+--- Deep Analysis: Watts-Strogatz (Small World) ---
+Assortativity: -0.0312
+Global Density: 0.000763
+Transitivity: 0.3571
+Rich-Club Coefficient (at max degree 6): 0.0000
+
+--- Analysis for Barabasi-Albert (Scale-Free) ---
+Average Clustering Coefficient: 0.0062
+Average Shortest Path Length: 4.7201
+
+--- Deep Analysis: Barabasi-Albert (Scale-Free) ---
+Assortativity: -0.0584
+Global Density: 0.000763
+Transitivity: 0.0024
+Rich-Club Coefficient (at max degree 163): 0.0000
+
+--- Analysis for Stochastic Block Model (SBM) ---
+Average Clustering Coefficient: 0.0486
+Path Length (Giant Component): 5.6575
+
+--- Deep Analysis: Stochastic Block Model (SBM) ---
+Assortativity: -0.0010
+Global Density: 0.001057
+Transitivity: 0.0482
+Rich-Club Coefficient (at max degree 14): 0.0000
+
+--- Analysis for LFR Benchmark Graph ---
+Average Clustering Coefficient: 0.0697
+Path Length (Giant Component): 5.8714
+
+--- Deep Analysis: LFR Benchmark Graph ---
+Assortativity: -0.0418
+Global Density: 0.000848
+Transitivity: 0.0176
+Rich-Club Coefficient (at max degree 219): 0.0000
+
+--- Analysis for Forest Fire Model ---
+Average Clustering Coefficient: 0.5142
+Average Shortest Path Length: 8.9034
+
+--- Deep Analysis: Forest Fire Model ---
+Assortativity: 0.2388
+Global Density: 0.001334
+Transitivity: 0.2766
+Rich-Club Coefficient (at max degree 69): 1.0000
