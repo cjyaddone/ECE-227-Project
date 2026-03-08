@@ -3,8 +3,8 @@ induced by co-authors of Paul Erdos as of around 2007. Its vertices are
 people with Erdos number 1, and two are joined by an edge if they have
 published a joint paper (with or without other collaborators). Paul
 Erdos himself and people with Erdos number 2 are not included.
-
 The first 19 lines of this file are the explanation you are reading now.
+
 After that, the first line gives the number of vertices (511). After
 that lines come in pairs. The first line gives the sequence number of
 the vertex (they're in alphabetical order), followed by the degree of
