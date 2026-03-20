@@ -45,7 +45,6 @@ The goal is to understand how different network generation mechanisms shape obse
 
 * Degree, Betweenness, Closeness, Eigenvector
 * Compare overlap of top 10% nodes
-* Interpret different notions of importance
 
 ### 4. Community Detection
 
